@@ -8,8 +8,10 @@
  **2. Model**
 - **Purpose:** Determines which version or type of the AI model will be used for processing the request.
 - **Functionality in Gemini API:**
-  - The model parameter specifies the exact version of Gemini to use (e.g., `gemini-1.5-flash`).
-    
+  - The model parameter specifies the exact version of Gemini to use (e.g., `gemini-1.5-flash`).As i used while making chatbot.
+  - 
+    ![Screenshot 2024-12-12 232750](https://github.com/user-attachments/assets/7c311818-9fad-477a-94a0-1b99c99a2aae)
+
   - Advanced models may offer better performance, reasoning, or response quality at the cost of higher resource usage.
 
  **3. Max Completion Tokens**
@@ -48,4 +50,3 @@
 
 
 
-By understanding these parameters, developers using the Gemini API can fine-tune their applications to optimize for performance, response style, and functionality, adapting the AI to various tasks and user experiences.
